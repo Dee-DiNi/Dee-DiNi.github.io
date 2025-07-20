@@ -52,9 +52,9 @@ interests:
   - Collective Intelligence
 
 
-# education:
-#   - area: PhD in Electrical and Computer Engineering
-#     institution: Cornell University
+education:
+  - area: PhD in Electrical and Computer Engineering
+    institution: Cornell University
 #     date_start: 2018
 #     date_end: 2022
 #     # summary: |
@@ -62,8 +62,8 @@ interests:
 #     button:
 #       text: 'Read Thesis'
 #       url: 'https://example.com'
-#   - area: Master in Applied Physics
-#     institution: Massachusetts Institute of Technology
+  - area: Master in Applied Physics
+    institution: Cornell University
 #     date_start: 2015-08-01
 #     date_end: 2020-12-31
 #     summary: |
@@ -73,8 +73,8 @@ interests:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - area: BSc Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
+  - area: BSc in Physics
+    institution: Beijing Normal University
 #     date_start: 2016-01-01
 #     date_end: 2020-12-31
 #     summary: |
