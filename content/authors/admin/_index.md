@@ -6,8 +6,8 @@ title: Di Ni
 # name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Di
-last_name: Ni
+first_name: 菂
+last_name: 倪
 
 # Status emoji
 status:
@@ -23,8 +23,8 @@ highlight_name: true
 role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-#   - name: Princeton Uiversity
+organizations:
+  - name: Princeton Uiversity
 #     url: 
 
 # Social network links
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Robotics
   - Bio-inspired Samll Robots & Swarms
-  - Collective Behavior & Artificial Intelligence
+  - Collective Intelligence
 
 
 # education:
@@ -184,4 +184,9 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome!
+
+My name is Di Ni and I am a Postdoctoral Researcher at Princeton University. My research aims to develop **small-scale robots** that are simple, robust, and scalable, with the goal of deploying them in **swarms** to collaboratively address real-world applications.
+
+I am currently work in the awesome [SSR](https://ssr.princeton.edu/) lab with Prof. [Radhika Nagpal](https://www.radhikanagpal.org/). 
+Before Princeton, I completed my Ph.D. in Electrical and Computer Engineering in 2022, advised by Prof. [Amit Lal](https://www.engineering.cornell.edu/faculty-directory/amit-lal) at Cornell University. My doctoral research focused on developing novel actuators and power supplies for the insect-sized robotic platform. Prior to that, I obtained a M.S. in Applied Physics from Cornell University and a B.S. in Physics from Beijing Normal University.
