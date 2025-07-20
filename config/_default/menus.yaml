@@ -8,9 +8,14 @@ main:
     url: /
     weight: 10
 
-  - name: Projects
-    url: projects/
+  - name: Research
+    url: /research 
+    # url: projects/
     weight: 11
+
+  # - name: Projects
+  #   url: projects/
+  #   weight: 11
 
   - name: Papers
     url: /#papers
