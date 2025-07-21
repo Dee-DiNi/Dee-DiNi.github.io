@@ -1,7 +1,7 @@
 ---
 title: 'Research'
 date: 2024-05-19
-# type: landing
+type: default
 
 design:
   # Section spacing
