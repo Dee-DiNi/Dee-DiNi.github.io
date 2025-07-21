@@ -18,7 +18,7 @@ sections:
       
           My research draws inspiration from biological systems to overcome the challenges in miniaturize robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
       
-      image: /animal-swarm.jpg
+      # image: /animal-swarm.jpg
 
       filters:
         folders:
