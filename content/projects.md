@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      # title: Selected Projects
+      title: Selected Projects
       text: |
         Nature showcases small organisms with remarkable individual locomotion and collective behaviors – from hummingbirds demonstrating great agility and precise hovering, to schools of fish navigating thousands of miles in adaptive group patterns. Imagine replicating such feats with swarms of small robots.
 
