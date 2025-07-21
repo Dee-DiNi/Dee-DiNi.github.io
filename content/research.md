@@ -12,22 +12,22 @@ design:
 sections:
   - block: collection
     content:
-      # title: Selected Projects
+      title: Research
       text: |
+
+        ![natural collectives](../research/animal-swarm.svg)
+
         Nature showcases small organisms with remarkable individual locomotion and collective behaviors – from hummingbirds demonstrating great agility and precise hovering, to schools of fish navigating thousands of miles in adaptive group patterns. Imagine replicating such feats with swarms of small robots.
 
-        ![natural collectives](../research/animal-swarm.jpg)
+
 
 
         My research draws inspiration from biological systems to overcome the challenges in miniaturize robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
 
-        <!-- ![Miniature robot swarm](../images/robot_swarm.jpg) -->
-
-        I enjoy making things. Here are a selection of projects that I have worked on over the years.
       
       filters:
         folders:
-          - project
+          - research
     design:
       view: article-grid
       fill_image: true
