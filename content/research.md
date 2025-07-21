@@ -1,11 +1,11 @@
 ---
 title: 'Research'
 date: 2024-05-19
-type: landing
+# type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: '3rem'
 
 
 # Page sections
@@ -21,7 +21,7 @@ sections:
 
 
         <div style="display: flex; align-items: flex-start; gap: 2rem;">
-          <img src="../research/animal-swarm2.jpg" alt="test_image" width="180" />
+          <img src="../research/animal-swarm.jpg" alt="test_image" width="180" />
         </div>
 
         My research draws inspiration from biological systems to overcome the challenges in miniaturize robotic swarms. I aim to develop cost-effective, small-scale robots for practical applications, such as exploring cluttered environments, monitoring ecosystems, and gathering high-resolution ocean observations.
