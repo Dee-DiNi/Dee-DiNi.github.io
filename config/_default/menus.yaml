@@ -13,7 +13,7 @@ main:
     weight: 15
 
   - name: Research
-    url: /research 
+    url: research/ 
     # url: projects/
     weight: 11
 
