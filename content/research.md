@@ -1,5 +1,5 @@
 ---
-title: 'Projects (TEST ReSEARCH)'
+title: 'ReSEARCH'
 date: 2024-05-19
 type: landing
 
