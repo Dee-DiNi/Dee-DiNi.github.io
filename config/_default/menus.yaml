@@ -17,25 +17,25 @@ main:
     # url: projects/
     weight: 12
 
-  # - name: Projects
-  #   url: projects/
-  #   weight: 13
+  - name: Projects
+    url: projects/
+    weight: 13
 
   - name: Papers
     url: /#papers
     weight: 14
 
-  # - name: Talks
-  #   url: /#talks
-  #   weight: 15
+  - name: Talks
+    url: /#talks
+    weight: 15
 
   - name: News
     url: /#news
     weight: 16
 
-  # - name: Experience
-  #   url: experience/
-  #   weight: 20
+  - name: Experience
+    url: experience/
+    weight: 20
 
 
 
